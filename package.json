@@ -1,0 +1,14 @@
+{
+  "name": "bch-archive",
+  "version": "0.0.1",
+  "description": "",
+  "main": "memo-twitter-bridge.js",
+  "author": "SpendBCH",
+  "license": "MIT",
+  "dependencies": {
+    "bitbox-cli": "^0.7.21",
+    "redis": "^2.8.0",
+    "thepiratebay": "^1.4.7",
+    "twitter": "^1.7.1"
+  }
+}
